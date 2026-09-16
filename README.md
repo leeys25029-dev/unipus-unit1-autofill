@@ -1,11 +1,10 @@
 # unipus-unit1-autofill
 
-新探索研究生英语（提高级）读写教程：答案文档与第一单元仅填充脚本。
+新探索研究生英语（提高级）读写教程：答案文档和填充脚本。
 
 ## 范围
 
 - `读写提高级U校园答案/`：U1–U6 原始答案文档。
-- `unit1-autofill.js`：第一单元 Academic exploration 1 的 Words in use 和 Translation 试运行脚本。
 - `build_unit1.py`：从 U1 DOCX 生成答案 JSON 和独立脚本，无第三方 Python 依赖。
 - `test-unit1.cjs`：离线模拟 DOM 测试，需要 Node.js 18 或更新版本。
 
