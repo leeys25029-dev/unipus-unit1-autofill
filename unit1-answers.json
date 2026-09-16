@@ -1,0 +1,66 @@
+{
+  "source": "读写提高级U校园答案/U1读写 提高.docx",
+  "unit": "Unit 1 Challenge",
+  "sections": [
+    {
+      "id": "ae1-words",
+      "route": "/courseware/u2/u2g101/u2g107/u2g109",
+      "title": "Academic exploration 1 / Words in use",
+      "kind": "input",
+      "evidence": [
+        "Research suggests that our planet is warming",
+        "rate is the speed at which your body transforms food into energy",
+        "the declining of domestic demand",
+        "management system optimizes battery range",
+        "from winds and weather",
+        "and irreplaceable resource",
+        "the pandemic",
+        "about artificial intelligence"
+      ],
+      "answers": [
+        "unprecedented",
+        "metabolic",
+        "counteract",
+        "thermal",
+        "erosion",
+        "finite",
+        "prolong",
+        "skeptical"
+      ],
+      "paragraphs": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "id": "ae1-translation",
+      "route": "/courseware/u2/u2g101/u2g107/u2g110",
+      "title": "Academic exploration 1 / Translation",
+      "kind": "multiline",
+      "evidence": [
+        "A landmark new report on biodiversity and ecosystem",
+        "the loss of fertile topsoil by water, wind",
+        "If the right amount of the boat is submerged",
+        "receive a great amount of direct solar energy"
+      ],
+      "answers": [
+        "周一，一份关于生物多样性和生态系统的里程碑式的新报告在巴黎发布，对全球自然界前所未有的衰退速度发出了警告。",
+        "土壤侵蚀是水、风以及耕作导致的肥沃表土流失，这已是全球性问题，其后果正受到越来越广泛的关注。",
+        "如果适量的船体没入水中，强大的浮力足以抵消将船向下拉坠的重力，船就会漂浮起来。",
+        "热带地区接收到大量太阳直射的能量，比高纬度地区产生更多的蒸发。"
+      ],
+      "paragraphs": [
+        56,
+        57,
+        58,
+        59
+      ]
+    }
+  ]
+}
